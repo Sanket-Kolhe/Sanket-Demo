@@ -1,2 +1,3 @@
 # Sanket-Demo
-This is my First Github Repo
+This is my First Github Repository.
+Author - Sanket Kolhe
